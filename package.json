@@ -10,17 +10,11 @@
     },
     "main": "node_modules/node-red/red/red.js",
     "scripts": {
-        "start": "node $NODE_OPTIONS node_modules/node-red/red.js -v $FLOWS"
+        "start": "node node_modules/node-red/red.js"
     },
     "contributors": [
         {
-            "name": "Dave Conway-Jones"
-        },
-        {
-            "name": "Nick O'Leary"
-        },
-        {
-            "name": "James Thomas"
+            "name": "J"
         }
     ],
     "dependencies": {
