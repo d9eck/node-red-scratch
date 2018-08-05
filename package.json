@@ -18,11 +18,7 @@
         }
     ],
     "dependencies": {
-        "node-red": "*",
-        "node-red-node-msgpack": "*",
-        "node-red-node-base64": "*",
-        "node-red-node-suncalc": "*",
-        "node-red-node-random": "*"
+        "node-red": "*"
     },
     "engines": {
         "node": "4.*.*"
